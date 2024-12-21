@@ -47,3 +47,4 @@ generate_button = tk.Button(window, text="Create", command=generate_and_save_pas
 generate_button.grid(row=2, column=0, columnspan=2, padx=5, pady=5)
 
 window.mainloop()
+#s
